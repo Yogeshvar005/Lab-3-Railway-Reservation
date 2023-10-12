@@ -18,7 +18,18 @@ phones.
 of the online bus ticket system is to provide another way for transnational customers to buy
 their tickets.
 ### UML DIAGRAMS:
-
+### CLASS DIAGRAM:
+![274483069-c946f72a-4361-415c-94d3-8a4a625f3e14](https://github.com/Yogeshvar005/Lab-3-Railway-Reservation/assets/113497367/35d50804-fc29-4afe-bb50-4aed6f182838)
+### USECASE DIAGRAM:
+![274483161-02307ad7-1238-4ce0-9236-950fc772c5b4](https://github.com/Yogeshvar005/Lab-3-Railway-Reservation/assets/113497367/254a34a4-d2d3-42c1-a1e2-56f6120313fa)
+### PACKAGE DIAGRAM:
+![274489790-dce61d9e-dc7a-4210-aace-18c488ee8a13](https://github.com/Yogeshvar005/Lab-3-Railway-Reservation/assets/113497367/b438235a-54fe-4ebc-8a74-535b268453ac)
+### ACTIVITY DIAGRAM:
+![274490123-2c10bdf6-bdcc-4b30-b526-fbf627657e9a](https://github.com/Yogeshvar005/Lab-3-Railway-Reservation/assets/113497367/7e531472-9768-44bd-87cb-958acf4ef205)
+### COMMUNICATION DIAGRAM
+![image](https://github.com/Yogeshvar005/Lab-3-Railway-Reservation/assets/113497367/67dfe7d4-9c9c-4243-bc70-142a42d307b3)
+### SEQUENCE DIAGRAM:
+![image](https://github.com/Yogeshvar005/Lab-3-Railway-Reservation/assets/113497367/4e739bfb-9e10-4922-b1a2-4051b18b2c51)
 
 
 ### RESULT:
